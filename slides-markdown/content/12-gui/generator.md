@@ -50,7 +50,7 @@ aliases = ["/javafx/"]
 ### Java APIs
 
 * Libreria che include classi e interfacce scritte in Java <!-- e compilato con retro compatibilità fino a Java 7 -->
-* Nel 2022, la versione più recente, *JavaFX 19*, richiede *JDK >= 11*
+* Nel 2023, la versione più recente, *JavaFX 21*, richiede *JDK >= 17*
 
 
 ### FXML (e CSS per lo stile)
